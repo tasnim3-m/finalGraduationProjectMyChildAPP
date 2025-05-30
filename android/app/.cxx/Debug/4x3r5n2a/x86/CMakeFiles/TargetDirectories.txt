@@ -1,0 +1,2 @@
+C:/Users/Administrator/Desktop/MyChiled test/My-Child-App/android/app/.cxx/Debug/4x3r5n2a/x86/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/MyChiled test/My-Child-App/android/app/.cxx/Debug/4x3r5n2a/x86/CMakeFiles/rebuild_cache.dir

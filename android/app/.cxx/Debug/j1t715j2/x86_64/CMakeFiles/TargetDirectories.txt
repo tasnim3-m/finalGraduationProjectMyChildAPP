@@ -1,0 +1,2 @@
+D:/My-Child-App-main 2/My-Child-App-main/android/app/.cxx/Debug/j1t715j2/x86_64/CMakeFiles/edit_cache.dir
+D:/My-Child-App-main 2/My-Child-App-main/android/app/.cxx/Debug/j1t715j2/x86_64/CMakeFiles/rebuild_cache.dir

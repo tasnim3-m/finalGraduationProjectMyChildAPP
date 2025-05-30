@@ -1,0 +1,2 @@
+/Users/mo-asliee/Desktop/My-Child-App-main/android/app/.cxx/Debug/3q5r4c4l/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mo-asliee/Desktop/My-Child-App-main/android/app/.cxx/Debug/3q5r4c4l/armeabi-v7a/CMakeFiles/rebuild_cache.dir
